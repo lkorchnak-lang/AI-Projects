@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ADD",
+    "org_id": "altus",
+    "name": "Assessment & Due Diligence",
+    "short_code": "ADD",
+    "problem_statement": "Company (or PE portfolio company) needs a fast, diagnostic read on revenue-function health before deciding where to invest.",
+    "hpr_elements": ["M1", "M2", "S1", "S11"],
+    "lifecycle_stage": "Assess",
+    "ideal_client_stage": "Any stage; especially PE/VC portfolio companies pre- or post-investment",
+    "delivery_format": "Project-based diagnostic",
+    "duration_estimate": "~4 weeks",
+    "deliverables": [
+      "SME interviews", "21 HPR elements analysis", "assessment summary", "risk analysis",
+      "self-assessment scorecard", "Altus assessment scorecard", "SWOT", "sales cycle analysis",
+      "customer & employee interviews", "baseline study"
+    ],
+    "confidence": "deck-sourced"
+  },
+  {
+    "id": "MDB",
+    "org_id": "altus",
+    "name": "Market Driven Baseline",
+    "short_code": "MDB",
+    "problem_statement": "GTM strategy is unfocused or unvalidated \u2014 messaging, positioning, ICP, and market sizing haven't been rigorously derived from voice-of-customer.",
+    "hpr_elements": ["M3", "M4", "S1", "S2"],
+    "lifecycle_stage": "Assess/Recommend",
+    "ideal_client_stage": "Early-to-growth stage, pre- or early market validation",
+    "delivery_format": "Project-based strategy engagement",
+    "duration_estimate": "2-3 months",
+    "deliverables": [
+      "SME interviews", "technology profiling", "Blue Ocean Analysis", "actionable program recommendations",
+      "Executive Outbrief", "Managed Ordered List", "value prop & messaging", "positioning", "SWOT",
+      "sales cycle analysis", "HOT opportunity profiling (ICP)", "sales strategy/tactics", "21 HPR analysis",
+      "org design", "marketing strategy/tactics", "TAM/SAM", "customized survey", "customer & employee interviews"
+    ],
+    "confidence": "deck-sourced"
+  },
+  {
+    "id": "SPO",
+    "org_id": "altus",
+    "name": "Sales Process Optimization",
+    "short_code": "SPO",
+    "problem_statement": "Sales/marketing engine has inconsistent process, unpredictable results, no repeatability \u2014 needs playbooks, comp plans, CRM, hiring plan to scale.",
+    "hpr_elements": ["S3", "S5", "S6", "S7", "S8", "S10"],
+    "lifecycle_stage": "Optimize",
+    "ideal_client_stage": "Scaling stage, post-product-market-fit",
+    "delivery_format": "Project-based operational build-out",
+    "duration_estimate": "~6 months (per Altus)",
+    "deliverables": [
+      "rhythm of business", "best practice metrics", "hiring plan", "sales comp plan", "recruiting",
+      "channel support", "phone/email scripting", "customer support model", "professional sales tools",
+      "sales playbooks", "integrated lead gen", "website review", "sales ops assessment",
+      "sales org models", "services org models", "pricing models", "SFA/CRM implementation & integration"
+    ],
+    "confidence": "deck-sourced"
+  },
+  {
+    "id": "EL",
+    "org_id": "altus",
+    "name": "Embedded Leadership & Managed Services",
+    "short_code": "EL",
+    "problem_statement": "Company needs hands-on execution capacity, not another strategy deck \u2014 interim leadership, funnel management, channel development.",
+    "hpr_elements": ["S2", "S7", "S9"],
+    "lifecycle_stage": "Implement/Execution",
+    "ideal_client_stage": "Any stage needing embedded execution capacity",
+    "delivery_format": "Ongoing embedded/interim engagement",
+    "duration_estimate": "Ongoing",
+    "deliverables": [
+      "vertical sales development", "transaction management (M&A initiation to closure)",
+      "recruiting/placement/vetting", "interim execs (VP Sales/BD/Marketing)", "board/exec advisory",
+      "lead gen & development", "funnel management", "market research", "account management",
+      "strategic partnerships", "channel development", "inside sales development"
+    ],
+    "delivery_variants": ["Strategic Counsel", "Altus Talent (Recruitment)"],
+    "confidence": "deck-sourced"
+  }
+]

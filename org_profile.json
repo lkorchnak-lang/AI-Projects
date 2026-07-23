@@ -1,0 +1,19 @@
+{
+  "org_id": "altus",
+  "company_description": "Altus Alliance is a GTM/revenue strategy consulting firm providing assessment, market strategy, sales process optimization, and embedded execution services.",
+  "value_proposition_type": "text",
+  "value_proposition_value": "PLACEHOLDER \u2014 Altus to enter manually. Accepts: (a) typed text, (b) a file path to an uploaded pitch deck/PDF, or (c) a URL to their site or deck. Set value_proposition_type accordingly.",
+  "industries_served": [
+    "Tech & Software", "Digital Media", "SaaS", "E-commerce",
+    "FinTech", "EdTech", "Cloud", "IoT", "Nonprofit", "Health"
+  ],
+  "company_stages_served": [
+    "Pre-Seed/Seed", "Series A", "Series B", "Series C+",
+    "Growth/Late-Stage", "PE-Backed/Portfolio Company", "Public/Enterprise"
+  ],
+  "people_we_engage": [
+    "Founder/CEO", "CRO", "VP Sales", "VP Marketing", "VP Business Development",
+    "CMO", "COO", "Board Member/Investor", "Head of RevOps/Sales Ops"
+  ],
+  "_note": "industries_served is deck-sourced (slide 8). company_stages_served and people_we_engage are inferred from context and should be confirmed with an Altus partner before being treated as final \u2014 see PRD \u00a710, open question."
+}

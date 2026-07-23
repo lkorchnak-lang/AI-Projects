@@ -1,0 +1,58 @@
+[
+  {"signal_name": "Recent funding round (Seed-Series B)", "capability_code": "ADD", "weight": 3, "hpr_element": "S1", "data_source": "Apollo"},
+  {"signal_name": "Recent funding round (Seed-Series B)", "capability_code": "MDB", "weight": 2, "hpr_element": "M2", "data_source": "Apollo"},
+  {"signal_name": "Recent funding round (Seed-Series B)", "capability_code": "SPO", "weight": 1, "hpr_element": "S10", "data_source": "Apollo"},
+  {"signal_name": "Recent funding round (Seed-Series B)", "capability_code": "EL", "weight": 1, "hpr_element": "S2", "data_source": "Apollo"},
+
+  {"signal_name": "PE/VC add-on or portfolio-company context", "capability_code": "ADD", "weight": 3, "hpr_element": "S11", "data_source": "Apollo"},
+  {"signal_name": "PE/VC add-on or portfolio-company context", "capability_code": "MDB", "weight": 1, "hpr_element": "M2", "data_source": "Apollo"},
+  {"signal_name": "PE/VC add-on or portfolio-company context", "capability_code": "SPO", "weight": 1, "hpr_element": "S8", "data_source": "Apollo"},
+  {"signal_name": "PE/VC add-on or portfolio-company context", "capability_code": "EL", "weight": 2, "hpr_element": "S2", "data_source": "Apollo"},
+
+  {"signal_name": "M&A activity (acquired or acquiring)", "capability_code": "ADD", "weight": 2, "hpr_element": "S11", "data_source": "Apollo"},
+  {"signal_name": "M&A activity (acquired or acquiring)", "capability_code": "MDB", "weight": 1, "hpr_element": "M3", "data_source": "Apollo + Research"},
+  {"signal_name": "M&A activity (acquired or acquiring)", "capability_code": "SPO", "weight": 1, "hpr_element": "S3", "data_source": "Apollo"},
+  {"signal_name": "M&A activity (acquired or acquiring)", "capability_code": "EL", "weight": 3, "hpr_element": "S3", "data_source": "Apollo + Research"},
+
+  {"signal_name": "New CEO/CRO/CMO within ~6 months", "capability_code": "ADD", "weight": 3, "hpr_element": "S1", "data_source": "Apollo"},
+  {"signal_name": "New CEO/CRO/CMO within ~6 months", "capability_code": "MDB", "weight": 1, "hpr_element": "M3", "data_source": "Apollo"},
+  {"signal_name": "New CEO/CRO/CMO within ~6 months", "capability_code": "SPO", "weight": 1, "hpr_element": "S5", "data_source": "Apollo"},
+  {"signal_name": "New CEO/CRO/CMO within ~6 months", "capability_code": "EL", "weight": 3, "hpr_element": "S2", "data_source": "Apollo"},
+
+  {"signal_name": "VP Sales/BD/Marketing role open >60 days or recently vacated", "capability_code": "ADD", "weight": 1, "hpr_element": "S2", "data_source": "Apollo"},
+  {"signal_name": "VP Sales/BD/Marketing role open >60 days or recently vacated", "capability_code": "SPO", "weight": 2, "hpr_element": "S5", "data_source": "Apollo"},
+  {"signal_name": "VP Sales/BD/Marketing role open >60 days or recently vacated", "capability_code": "EL", "weight": 3, "hpr_element": "S2", "data_source": "Apollo"},
+
+  {"signal_name": "Rapid S&M headcount growth (postings outpacing backfill)", "capability_code": "SPO", "weight": 3, "hpr_element": "S3", "data_source": "Apollo"},
+  {"signal_name": "Rapid S&M headcount growth (postings outpacing backfill)", "capability_code": "EL", "weight": 2, "hpr_element": "S7", "data_source": "Apollo"},
+
+  {"signal_name": "New product launch / market expansion announcement", "capability_code": "ADD", "weight": 1, "hpr_element": "S1", "data_source": "Apollo + Research"},
+  {"signal_name": "New product launch / market expansion announcement", "capability_code": "MDB", "weight": 3, "hpr_element": "S1", "data_source": "Apollo + Research"},
+  {"signal_name": "New product launch / market expansion announcement", "capability_code": "EL", "weight": 2, "hpr_element": "S7", "data_source": "Apollo + Research"},
+
+  {"signal_name": "Weak/unfocused site messaging, no clear problem-solution statement", "capability_code": "MDB", "weight": 3, "hpr_element": "M3", "data_source": "Research"},
+
+  {"signal_name": "No clear CTA / conversion path on site", "capability_code": "MDB", "weight": 1, "hpr_element": "M3", "data_source": "Research"},
+  {"signal_name": "No clear CTA / conversion path on site", "capability_code": "SPO", "weight": 3, "hpr_element": "S8", "data_source": "Research"},
+
+  {"signal_name": "No clear industry/sector focus (too broad)", "capability_code": "MDB", "weight": 3, "hpr_element": "S1", "data_source": "Research"},
+  {"signal_name": "No clear industry/sector focus (too broad)", "capability_code": "SPO", "weight": 1, "hpr_element": "S8", "data_source": "Research"},
+
+  {"signal_name": "Missing or thin case studies/references on site", "capability_code": "MDB", "weight": 2, "hpr_element": "M9", "data_source": "Research"},
+
+  {"signal_name": "Visibly AI-generated copy/images/logo", "capability_code": "MDB", "weight": 1, "hpr_element": "M4", "data_source": "Research"},
+
+  {"signal_name": "Outdated or missing CRM/SFA in tech stack", "capability_code": "SPO", "weight": 3, "hpr_element": "S10", "data_source": "Apollo"},
+  {"signal_name": "Outdated or missing CRM/SFA in tech stack", "capability_code": "EL", "weight": 1, "hpr_element": "S7", "data_source": "Apollo"},
+
+  {"signal_name": "Poor SEO/GEO indexability, no ad-spend signal", "capability_code": "MDB", "weight": 1, "hpr_element": "M4", "data_source": "Research"},
+  {"signal_name": "Poor SEO/GEO indexability, no ad-spend signal", "capability_code": "SPO", "weight": 2, "hpr_element": "S7", "data_source": "Research"},
+
+  {"signal_name": "New partnership/channel announcement", "capability_code": "MDB", "weight": 1, "hpr_element": "S1", "data_source": "Apollo + Research"},
+  {"signal_name": "New partnership/channel announcement", "capability_code": "SPO", "weight": 1, "hpr_element": "S7", "data_source": "Apollo + Research"},
+  {"signal_name": "New partnership/channel announcement", "capability_code": "EL", "weight": 2, "hpr_element": "S7", "data_source": "Apollo + Research"},
+
+  {"signal_name": "Conference sponsorship/speaking activity", "capability_code": "MDB", "weight": 1, "hpr_element": "M4", "data_source": "Research"},
+  {"signal_name": "Conference sponsorship/speaking activity", "capability_code": "SPO", "weight": 1, "hpr_element": "S7", "data_source": "Research"},
+  {"signal_name": "Conference sponsorship/speaking activity", "capability_code": "EL", "weight": 1, "hpr_element": "S7", "data_source": "Research"}
+]

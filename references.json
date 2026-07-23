@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ref_interdigital",
+    "org_id": "altus",
+    "capability_code": "ADD",
+    "client_name": "InterDigital",
+    "attribution": "James Nolan",
+    "outcome_metric": "99% customer SAT",
+    "industry_tag": "Tech & Software",
+    "stage_tag": "Public/Enterprise",
+    "used_in_rationale": true,
+    "note": "Industry/stage tags are inferred, not confirmed by Altus \u2014 verify before relying on citation matching."
+  },
+  {
+    "id": "ref_metajure",
+    "org_id": "altus",
+    "capability_code": "MDB",
+    "client_name": "MetaJure",
+    "attribution": "Rich Corbet",
+    "outcome_metric": "99% customer SAT",
+    "industry_tag": "Tech & Software",
+    "stage_tag": "Series A",
+    "used_in_rationale": true,
+    "note": "Industry/stage tags are inferred, not confirmed by Altus \u2014 verify before relying on citation matching."
+  },
+  {
+    "id": "ref_mojix",
+    "org_id": "altus",
+    "capability_code": "SPO",
+    "client_name": "Mojix",
+    "attribution": "Mark Irvine",
+    "outcome_metric": "78% better odds of success",
+    "industry_tag": "IoT",
+    "stage_tag": "Growth/Late-Stage",
+    "used_in_rationale": true,
+    "note": "Industry/stage tags are inferred, not confirmed by Altus \u2014 verify before relying on citation matching."
+  },
+  {
+    "id": "ref_voyager",
+    "org_id": "altus",
+    "capability_code": "EL",
+    "client_name": "Voyager Capital (portfolio company context)",
+    "attribution": "Enrique Godreau",
+    "outcome_metric": "$300M+ in first sales",
+    "industry_tag": "Tech & Software",
+    "stage_tag": "PE-Backed/Portfolio Company",
+    "used_in_rationale": true,
+    "note": "Industry/stage tags are inferred, not confirmed by Altus \u2014 verify before relying on citation matching."
+  }
+]
